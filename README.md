@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning to be a professional Data Engineer and will eventually break into Quant Finance.
+Passionate about building secure, scalable data pipelines, and automation workflows.
 
 
 # 💻 Tech Stack:
