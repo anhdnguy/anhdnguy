@@ -2,8 +2,8 @@
 
 I'm a data engineer passionate about building **secure, scalable data pipelines** and **automation workflows** — from cloud infrastructure to end-to-end ETL systems.
 
-- 🔭 Currently working on data pipeline architecture and workflow automation
-- 🌱 Exploring infrastructure-as-code and cloud-native data solutions
+- 🔭 Currently working on data pipeline architecture and Agentic AI for document processing
+- 🌱 Exploring the quantitative finance industry
 - 💬 Ask me about data engineering, Python, or cloud infrastructure
 
 ---
