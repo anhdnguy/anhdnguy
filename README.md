@@ -32,6 +32,7 @@ I'm a data engineer passionate about building **secure, scalable data pipelines*
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -45,3 +46,4 @@ I'm a data engineer passionate about building **secure, scalable data pipelines*
 ---
 
 [![](https://visitcount.itsvg.in/api?id=anhdnguy&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
